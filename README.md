@@ -1,11 +1,4 @@
-<<<<<<< HEAD
- Laptops-Prices-Prediction
- 
-=======
+E-Commerce Fraud_Analysis 
+this notebook provides a thorough examination of fraudulent activities within the e-commerce sector. It employs statistical models and machine learning techniques to detect fraudulent transactions based on various factors like transaction amounts, customer age, and account age. Through detailed analysis and visualization, it offers actionable insights to bolster fraud prevention strategies in e-commerce platforms.
 
-<<<<<<< HEAD
-# Laptops-Prices-Prediction
->>>>>>> 0a92aa6824cb121e6ae787844fe5dacde9032d47
-
-=======
->>>>>>> 51d89a42cb3e54846df8070595485b620b38ba92
+The Dataset path : https://www.kaggle.com/code/goyaladi/laptop-price-regression-classification
